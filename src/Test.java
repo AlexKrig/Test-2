@@ -7,8 +7,9 @@ import java.util.Scanner;
 
 public class Test {
     public static void main(String[] args) {
-       Test lol= new Test();
-       lol.start();
+        new tesss();
+       //Test lol= new Test();
+       //lol.start();
 
     }
     public void start(){
